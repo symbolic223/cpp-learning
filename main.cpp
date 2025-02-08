@@ -68,5 +68,3 @@ int main() {
         }
     }
 }
-
-Laptop l1, l2;
