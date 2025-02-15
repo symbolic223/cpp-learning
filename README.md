@@ -28,5 +28,7 @@
 
 <img src = "/images/print.png" width = "300">
 
+<b>createLaptopVector(std::vector<Laptop>& laptops)</b> - добавляет новый ноутбук в вектор laptops.<br>
 
 
+<img src = "/images/create.png" width = "300">
