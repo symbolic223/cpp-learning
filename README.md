@@ -27,4 +27,4 @@
 
 <b>laptopChars(Laptop* laptop)</b> - запрашивает у пользователя информацию о ноутбуке и сохраняет её в переданную структуру.<br>
 
-<img src ="/images/chars.png>
+<img src ="/images/chars.png">
