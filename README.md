@@ -24,3 +24,9 @@
 <img src ="/images/chars.png" width="300">
 
 
+<b>printLaptop(const Laptop& laptop)</b> - выводит информацию о ноутбуке в консоли.<br>
+
+<img src = "/images/print.png" width = "300">
+
+
+
